@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Generator"
+  short_description: "Create verified, low-hallucination prompts"
+  default_prompt: "Use $prompt-generator to turn my idea into a clear, verified prompt."
