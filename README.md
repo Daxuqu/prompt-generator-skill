@@ -2,6 +2,23 @@
 
 一个可复用的 Codex skill，用来把模糊想法整理成结构清晰、低幻觉、可直接执行的高质量提示词。
 
+仓库地址：
+
+- SSH: `git@github.com:Daxuqu/prompt-generator-skill.git`
+- HTTPS: `https://github.com/Daxuqu/prompt-generator-skill.git`
+
+## 一键安装
+
+有 Git 权限时，直接执行：
+
+```bash
+git clone https://github.com/Daxuqu/prompt-generator-skill.git
+cd prompt-generator-skill
+./install.sh
+```
+
+安装完成后重启 Codex。
+
 ## 仓库结构
 
 ```text
@@ -18,8 +35,8 @@
 ### 方式 1：clone 后安装
 
 ```bash
-git clone <你的仓库地址>
-cd codex-提示词专家
+git clone https://github.com/Daxuqu/prompt-generator-skill.git
+cd prompt-generator-skill
 ./install.sh
 ```
 
